@@ -6,7 +6,7 @@ echo " <br>
 <table width='80%' cellspacing='0' cellpadding='0' align='center'>
    <tr>  
       <td class='texteAccueil'>
-         Cette application web de gérer l'hébergement des groupes de musique 
+         Cette application web permet de gérer l'hébergement des groupes de musique 
          durant le festival de sports.
       </td>
    </tr>

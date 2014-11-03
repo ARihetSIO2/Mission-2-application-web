@@ -16,7 +16,7 @@ echo " <br>
    </tr>
    <tr>
       <td class='texteAccueil'>
-          Elle offre les services merdiques suivants :
+          Elle offre les services suivants :
       </td>
    </tr>
    <tr>

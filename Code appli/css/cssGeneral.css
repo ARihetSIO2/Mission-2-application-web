@@ -10,7 +10,7 @@ Idem pour background-color) */
 {
    width: 1280px;
    height: 1024px;
-   font:11px Arial, Helvetica, sans-serif;
+   font:11px , Times New Roman, Helvetica, sans-serif;
 }
 
 /* Style pour le titre (couleur du texte : rouge) */
@@ -24,7 +24,7 @@ Idem pour background-color) */
 /* Style pour le texte de 2ème niveau du titre */
 .texteNiveau2
 {
-   font:20px Arial, Helvetica, /*sans-serif*/;
+   font:20px Arial, Helvetica, sans-serif;
 }
 /* Style pour le texte de la page d'accueil (couleur : bleu foncé avec mise en
 gras et en italique) */

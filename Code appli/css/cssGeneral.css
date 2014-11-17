@@ -10,8 +10,11 @@ Idem pour background-color) */
 {
    width: 1280px;
    height: 1024px;
-   font:11px , Times New Roman, Helvetica, sans-serif;
+font:11px , Times New Roman, Helvetica, sans-serif;
+	background-color: gold ;
+	color : red ;
 }
+
 
 /* Style pour le titre (couleur du texte : rouge) */
 .titre 
@@ -167,8 +170,15 @@ td.reserve
 td.principal
 {
  height:200px;
+	
    
    padding-left:300px;
  
+}
+
+td.image
+{
+	
+	left : 200px
 }
 

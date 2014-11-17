@@ -31,9 +31,12 @@ echo " <br>
 	      </p>
          <li>Consulter, réaliser ou modifier les attributions des chambres aux groupes dans les établissements.
       </ul>
+    <br>
+    <img src=fond.jpg width=900px height=400px >
       </td>
    </tr>
 </table>";
+
 
 ?>
 

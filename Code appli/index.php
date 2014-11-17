@@ -16,7 +16,7 @@ echo " <br>
    </tr>
    <tr>
       <td class='texteAccueil'>
-          Elle offre les services nuls suivants :
+          Elle offre les services inutiles suivants :
       </td>
    </tr>
    <tr>
